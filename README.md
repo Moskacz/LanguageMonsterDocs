@@ -1,8 +1,6 @@
 # Language Monster Docs
 
-## Rest API
-
-### user/register
+## user/register
 **method:** POST  
 
 **parameters:**   
@@ -14,7 +12,7 @@
 421 - wrong email format  
 422 - password does not meet requirements
 
-### user/login
+## user/login
 **method:** POST  
     
 **parameters:**  
